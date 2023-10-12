@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seochae523&show_icons=true&theme=shadow_green)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seochae523&show_icons=true&theme=shadow_green) -->
 
 <br>
 
