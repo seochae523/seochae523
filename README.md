@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **seochae523/seochae523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=welcome)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hello!&color=2ab613&fontColor=FFFFFF)
 
 # 💪Skills
 ### Platforms & Languages
@@ -41,6 +41,11 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Intellij](https://img.shields.io/badge/intellij%20idea-000000?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000?&style=for-the-badge&logo=pycharm&logoColor=white)
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seochae523&show_icons=true&theme=shadow_green)
+
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seochae523)](https://solved.ac/seochae523/)
